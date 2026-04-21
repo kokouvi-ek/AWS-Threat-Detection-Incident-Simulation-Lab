@@ -1,4 +1,4 @@
-
+# ScreenShots
 ![Alt text](/CloudTrail-Even-History-Screenshot.png)
 ![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
 ![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
@@ -22,9 +22,6 @@ The goal was to understand how attacker behavior appears in logs and how securit
 
 ---
 
-## 🏗️ Architecture
-
-![Architecture Diagram](./screenshots/architecture-diagram.png)
 
 ---
 
