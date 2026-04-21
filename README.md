@@ -70,3 +70,6 @@ The goal was to understand how attacker behavior appears in logs and how securit
 ├── incident-response/
 ├── screenshots/
 └── README.md
+
+
+![Alt text](/Dynamic-Web-App-on-AWS-with-Docker-Amazon-ECR.png)
