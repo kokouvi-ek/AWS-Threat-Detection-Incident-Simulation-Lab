@@ -1,11 +1,22 @@
 # AWS-Threat-Detection-Incident-Simulation-Lab
 
 # ScreenShots
+# CloudTrail Event History Screenshot
 ![Alt text](/CloudTrail-Even-History-Screenshot.png)
+
+# Microsoft Sentinel Data connector Screenshot
 ![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
+
+# Microsoft Sentinel Log Screenshot
 ![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
+
+# Microsoft SentinelLog from CloudTrail
 ![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png)
+
+# Attempt Privilege Escalation GuardDuty Result
 ![Alt text](/Attempt-Privilege-Escalation-GuardDuty-Result.png)
+
+# GuardDuty Example finding
 ![Alt text](/GuardDuty-Example-finding.png)
 
 ---
