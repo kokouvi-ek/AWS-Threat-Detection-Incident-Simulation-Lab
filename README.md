@@ -1,13 +1,14 @@
+# AWS-Threat-Detection-Incident-Simulation-Lab
+
 # ScreenShots
 ![Alt text](/CloudTrail-Even-History-Screenshot.png)
 ![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
 ![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
 ![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png)
 ![Alt text](/Attempt-Privilege-Escalation-GuardDuty-Result.png)
-![Alt text](/Attempt-Privilege-Escalation-GuardDuty-Result.png)
+![Alt text](/GuardDuty-Example-finding.png)
 
-
-# AWS-Threat-Detection-Incident-Simulation-Lab
+---
 
 ## 📌 Overview
 This project simulates real-world cloud attack scenarios in AWS and builds detection workflows using CloudTrail, GuardDuty, and Microsoft Sentinel.
@@ -24,13 +25,9 @@ The goal was to understand how attacker behavior appears in logs and how securit
 
 ---
 
-
----
-
 ## ⚔️ Attack Scenarios Simulated
 
 - Privilege escalation via IAM misconfiguration
-
 
 ---
 
