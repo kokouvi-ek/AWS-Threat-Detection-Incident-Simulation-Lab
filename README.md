@@ -27,11 +27,8 @@ The goal was to understand how attacker behavior appears in logs and how securit
 
 ## ⚔️ Attack Scenarios Simulated
 
-- Credential compromise (stolen IAM keys)
 - Privilege escalation via IAM misconfiguration
-- Unauthorized API activity
-- Resource enumeration (IAM, S3)
-- Suspicious console/CLI usage
+
 
 ---
 
@@ -65,13 +62,4 @@ The goal was to understand how attacker behavior appears in logs and how securit
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-.
-├── detections/
-├── logs/
-├── incident-response/
-├── screenshots/
-└── README.md
 
