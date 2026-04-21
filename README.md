@@ -1,4 +1,4 @@
-![Alt text](/Screenshot (266).png)
+![Alt text](/CloudTrail-Even-History-Screenshot.png)
 
 
 # AWS-Threat-Detection-Incident-Simulation-Lab
