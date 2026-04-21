@@ -1,3 +1,6 @@
+![Alt text](/Screenshot (266).png)
+
+
 # AWS-Threat-Detection-Incident-Simulation-Lab
 
 ## 📌 Overview
@@ -72,4 +75,4 @@ The goal was to understand how attacker behavior appears in logs and how securit
 └── README.md
 
 
-![Alt text](/Screenshot (266).png)
+
