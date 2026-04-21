@@ -1,4 +1,8 @@
 
+![Alt text](/CloudTrail-Even-History-Screenshot.png)
+![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
+![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
+![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png)
 
 
 # AWS-Threat-Detection-Incident-Simulation-Lab
@@ -74,7 +78,3 @@ The goal was to understand how attacker behavior appears in logs and how securit
 ├── screenshots/
 └── README.md
 
-![Alt text](/CloudTrail-Even-History-Screenshot.png)
-![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
-![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
-![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png)
