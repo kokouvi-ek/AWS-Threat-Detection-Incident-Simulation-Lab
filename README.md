@@ -1,8 +1,10 @@
 # ScreenShots
-#![Alt text](/CloudTrail-Even-History-Screenshot.png
-#![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png
-#![Alt text](/Microsoft-Sentinel-Log-Screenshot.png
-#![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png
+![Alt text](/CloudTrail-Even-History-Screenshot.png)
+![Alt text](/Microsoft-Sentinel-Data-connector-Screenshot.png)
+![Alt text](/Microsoft-Sentinel-Log-Screenshot.png)
+![Alt text](/Microsoft-SentinelLog-from-CloudTrail.png)
+![Alt text](/Attempt-Privilege-Escalation-GuardDuty-Result.png)
+![Alt text](/Attempt-Privilege-Escalation-GuardDuty-Result.png)
 
 
 # AWS-Threat-Detection-Incident-Simulation-Lab
