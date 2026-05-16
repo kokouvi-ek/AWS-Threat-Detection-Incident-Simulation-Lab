@@ -1,4 +1,4 @@
-# AWS-Threat-Detection-Incident-Simulation-Lab
+# AWS and Azure-Threat-Detection-Incident-Simulation-Lab
 
 # ScreenShots
 
